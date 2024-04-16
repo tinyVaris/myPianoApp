@@ -55,6 +55,10 @@ class _MainPianoScreenState extends State<MainPianoScreen> {
 
 
     return Scaffold(
+
+      //****NOTE****//
+      //SETTINGS SCREEN TO BE IMPLEMENTED AT A FUTURE DATE IF POSSIBLE
+      
       // appBar: AppBar(
       //   title: Text(widget.title),
       //   backgroundColor: Colors.deepPurple.shade100,
