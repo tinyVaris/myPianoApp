@@ -10,5 +10,5 @@ A simple app to play the piano on.
 Press the keys to play a note.
 
 
-##Please note
+## Please note
 More features to be implemented if I have the time before the semester ends.
