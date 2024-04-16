@@ -4,6 +4,8 @@ import 'PianoScreen.dart';
 import 'PianoKeysWidgets.dart';
 import 'package:metronome/metronome.dart';
 
+//****NOTE*****//
+//This settings screen will be implemented in a future date
 
 class SettingsScreen extends StatefulWidget {
   const SettingsScreen({super.key, required this.title});
