@@ -1,13 +1,11 @@
 
-# MyPianoAndroidApp
+# MyPiano
 An Android app that allows you to play a simple piano.
 =======
-# my_piano
-A simple app to play the piano on.
-
+Perfect for beginner pianists looking to play some songs on the go.
 
 ## Getting Started
-Press the keys to play a note.
+Press the keys displayed on the screen to play a note.
 
 
 ## Please note
